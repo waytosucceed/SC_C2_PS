@@ -1,0 +1,98 @@
+{
+  "heading": "Coordinate System",
+  "topics": [
+    {
+      "heading": "Coordinate System",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which block is used to move forward?",
+          "options": [
+            {
+              "text": "A",
+              "image": "./assests/images/option/1.png"
+            },
+            {
+              "text": "B",
+              "image": "./assests/images/option/2.png"
+            },
+            {
+              "text": "C",
+              "image": "./assests/images/option/3.png"
+            },
+            {
+              "text": "D",
+              "image": "./assests/images/option/4.png"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Block C is used to trigger an action when a sprite is clicked."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which block is used to go to x=10 and y=5?",
+          "options": [
+            {
+              "text": "A",
+              "image": "./assests/images/option/5.png"
+            },
+            {
+              "text": "B",
+              "image": "./assests/images/option/6.png"
+            },
+            {
+              "text": "C",
+              "image": "./assests/images/option/7.png"
+            },
+            {
+              "text": "D",
+              "image": "./assests/images/option/8.png"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Block D changes the costume of a sprite."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which coordinate is used to move a sprite upwards/downwards?",
+          "options": [
+            {
+              "text": "z"
+            },
+            {
+              "text": "y"
+            },
+            {
+              "text": "x"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The costume refers to the different looks or appearances of the sprite."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which coordinate is used to move a sprite left/right?",
+          "options": [
+            {
+              "text": "z"
+            },
+            {
+              "text": "y"
+            },
+            {
+              "text": "x"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 2,
+          "explanation": "A sprite is the object that can be controlled by code."
+        }
+      ]
+    }
+  ]
+}
